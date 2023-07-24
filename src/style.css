@@ -82,11 +82,10 @@ body {
   padding: 1rem;
   margin-top: 2rem;
 }
-.campo ::placeholder { 
+.campo ::placeholder {
   color: var(--blanco);
-  opacity: 1; 
+  opacity: 1;
 }
-
 .resultado {
   background-color: var(--blanco);
   padding: 1rem;
@@ -95,7 +94,6 @@ body {
   text-align: center;
   margin-top: 2rem;
 }
-
 .resultado .actual {
   font-size: 6rem;
   margin: 0;
@@ -112,7 +110,6 @@ body {
 .temperaturas span {
   font-weight: 400;
 }
-
 .instrucciones,
 .no-resultados {
   text-align: center;
